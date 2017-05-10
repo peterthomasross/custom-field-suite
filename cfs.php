@@ -1,12 +1,14 @@
 <?php
-/*
-Plugin Name: test
-Plugin URI: https://github.com/peterthomasross/custom-field-suite
-GitHub Plugin URI: https://github.com/peterthomasross/custom-field-suite
-Description: Visually add custom fields to your WordPress edit pages.
-Version: 2.5.9
 
-*/
+/**
+ * Plugin Name:       test
+ * Plugin URI:        https://github.com/peterthomasross/custom-field-suite
+ * Description:       A plugin.
+ * Version:           6.3.2
+ * Author:            Andy Fragen
+ * GitHub Plugin URI: https://github.com/peterthomasross/custom-field-suite
+ * GitHub Branch:     master
+ */
 
 class Custom_Field_Suite
 {
