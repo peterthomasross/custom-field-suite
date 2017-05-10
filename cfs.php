@@ -4,7 +4,7 @@
  * Plugin Name:       test
  * Plugin URI:        https://github.com/peterthomasross/custom-field-suite
  * Description:       A plugin.
- * Version:           6.3.2
+ * Version:           6.3.5
  * Author:            Andy Fragen
  * GitHub Plugin URI: https://github.com/peterthomasross/custom-field-suite
  * GitHub Branch:     master
